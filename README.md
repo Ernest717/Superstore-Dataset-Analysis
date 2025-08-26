@@ -20,7 +20,7 @@ The goal is to derive key insights from the data using tables, visualizations, a
 ## 🚀 How to Use
 
 - Clone the repository:
-  - git clone https://github.com/<your-username>/<your-repo-name>.git
+  - git clone https://github.com/ernest717/Superstore-Dataset-Analysis.git
 
 - Open the notebook:
   - jupyter notebook Internship_OWL.ipynb
