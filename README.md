@@ -27,6 +27,7 @@ The analysis uses the **Superstore Dataset – Final** from Kaggle:
 ## 📂 Files
 - `Internship_OWL.ipynb` – Jupyter Notebook with full EDA and visuals.
 - `Superstore Dataset Analysis Report.pdf` – PDF report summarizing insights from the notebook.
+- `Superstore Dataset Analysis Dashboard.pbix` - additional Power BI dashboard 
 - `README.md` – This documentation.
 
 
